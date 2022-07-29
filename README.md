@@ -17,8 +17,9 @@ which is a powerful tool to investigate the complex physiological effects of nut
 communities analysis
 
 
+![Visualization of the framework, from data collection to network analysis.](https://github.com/CarloMengucci/Omic-Networks-Crosstalk/blob/main/metabolites_pipeline.png)
 
-
+*Visualization of the framework, from data collection to network analysis.*
 
 
 **Requirements**: code is compatible with Python 3.8 environments, requiring the following packages to be properly installed: Numpy, Pandas, SKlearn, NetworkX
