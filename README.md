@@ -1,5 +1,5 @@
 # Omic-Networks-Crosstalk
-Sample scripts for the framework described in "Building up multiomics networks to decipher the role of gut 2 microbiota in nutritional intervention trials"
+Sample scripts for the framework described in "Building up multiomics networks to decipher the role of gut microbiota in nutritional intervention trials"
 
 **Abstract:** The availability of omics data providing information from different layers of complex biological processes, 
 that link nutrition to human health, needs the development of integrated approaches combining holistically individual omics data, 
