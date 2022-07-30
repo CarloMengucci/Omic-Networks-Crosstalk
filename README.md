@@ -13,7 +13,7 @@ stool metabolome (1H NMR spectra) and GC-MS for stool volatilome.
 The presented approach exploits a network-based descriptive paradigm necessary for a true multiomics integration of data, 
 which is a powerful tool to investigate the complex physiological effects of nutritional interventions.
 
-**Code:** Scripts for 1H NMR spectral feature processing, datasets merging (**script**: [process_NMR_and_omicmerge](https://github.com/CarloMengucci/Omic-Networks-Crosstalk/blob/main/process_NMR_and_omicmerge.py)), network construction and k-clique communities analysis (**script**: [process_NMR_and_omicmerge](https://github.com/CarloMengucci/Omic-Networks-Crosstalk/blob/main/omic_networks_CNA.py))
+**Code:** Scripts for 1H NMR spectral feature processing, datasets merging (**script**: [process_NMR_and_omicmerge](https://github.com/CarloMengucci/Omic-Networks-Crosstalk/blob/main/process_NMR_and_omicmerge.py)), network construction and k-clique communities analysis (**script**: [omic_networks_CNA](https://github.com/CarloMengucci/Omic-Networks-Crosstalk/blob/main/omic_networks_CNA.py))
 
 
 ![Visualization of the framework, from data collection to network analysis.](https://github.com/CarloMengucci/Omic-Networks-Crosstalk/blob/main/metabolites_pipeline.png)
