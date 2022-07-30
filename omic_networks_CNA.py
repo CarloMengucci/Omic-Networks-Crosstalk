@@ -105,7 +105,7 @@ for graph in Graphs_te:
     
     k=list(community.k_clique_communities(G, k=order_of_the_clique)) #find all the communities of cliques of order k in G
 
-    k_q=[sorted(list(k[i])) for i in range (len(k))] ## important: ist comprehension for typecasting from FrozenSet
+    k_q=[sorted(list(k[i])) for i in range (len(k))] ## important: list comprehension for typecasting from FrozenSet
     
     f = open(pj(results_dir,'kq_communities_%s.txt'%label), 'w') #dump and save k_q communities for each network (sex,diet/intervention)
     json.dump(k_q, f)
